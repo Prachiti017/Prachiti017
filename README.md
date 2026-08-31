@@ -17,9 +17,9 @@ B.Tech Information Technology graduate passionate about building responsive web 
 ### 💼 Areas of Interest
 
 * React.js Development
+* Frontend Development
 * Java Development
 * SQL Development
-* Frontend Development
 * Full Stack Development
 
 **Languages**
