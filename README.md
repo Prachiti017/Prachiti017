@@ -22,39 +22,35 @@ B.Tech Information Technology graduate passionate about building responsive web 
 * SQL Development
 * Full Stack Development
 
-**Languages**
+🛠️ Tech Stack
+ 
+💻 Languages
+☕ Java
+🟨 JavaScript (ES6+)
+🗄️ SQL
+🔵 C
+ 
+🎨 Frontend
+⚛️ React.js
+🌐 HTML5
+🎨 CSS3
+🅱️ Bootstrap
+🌊 Tailwind CSS
+ 
+⚙️ Backend & APIs
+☕ Java
+🍃 Spring Boot
+🟢 Node.js
+🔌 REST APIs
+ 
+🗄️ Database
+🐬 MySQL
+🍃 MongoDB
 
-* Java
-* JavaScript
-* SQL
-* C
-
-**Frontend**
-
-* React.js
-* HTML5
-* CSS3
-* Bootstrap
-* Tailwind CSS
-
-**Backend**
-
-* Java
-* Spring Boot
-* Node.js
-* REST APIs
-
-**Database**
-
-* MySQL
-* MongoDB
-
-**Tools**
-
-* Git
-* GitHub
-* VS Code
-
+🔧 Tools & Technologies
+🐙 Git
+🐱 GitHub
+💻 VS Code
 ## 🚀 Featured Projects
 
 ### 🍔 Foodie Haven
