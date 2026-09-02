@@ -2,7 +2,7 @@
 
 # Hi, I'm Prachiti Hole 👋
 
-### 💻 React.js Developer | Java Developer | SQL Developer | Full Stack Developer
+### 💻 React.js Developer | SQL Developer | Java Developer | Full Stack Developer
 
 B.Tech Information Technology graduate passionate about building responsive web applications and full-stack solutions.
 
